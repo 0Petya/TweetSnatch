@@ -1,12 +1,15 @@
 var Twit = require('twit');
 var fs = require('fs');
+var ini = require('ini');
+
+var config = ini.parse(fs.readFileSync('./config.ini', 'utf-8'));
 
 var T = new Twit
 ({
-	consumer_key:           'XzjjKWXFe9OxmOmyCpQklxNmR'
-	, consumer_secret:      '2yIsXYliWhxxOjimIdrX01aaw8wNMvhpedRR9ehFZoCMYoJCp0'
-	, access_token:         '3171126109-pyE2vLmIRiB5wLhzptiZKS3j6fgqhZxMhi600Mx'
-	, access_token_secret:  'jInajNq27AUhj3cw3lXlema3PqgquXN7nhxT3G4W6hpER'
+	consumer_key:           config.consumer_key
+	, consumer_secret:      config.consumer_secret
+	, access_token:         config.access_token
+	, access_token_secret:  config.access_token_secret
 })
 
 cleanDir('./unparsedTweets');
