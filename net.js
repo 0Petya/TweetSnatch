@@ -49,7 +49,7 @@ function sample(stopTime, doneNetting)
 	{
 		stream.stop();
 		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the database for the tweets.')
+		console.log('Please check the parsedTweets folder for the tweets.')
 		doneNetting(i);
 	}
 }
@@ -72,7 +72,7 @@ function track(stopTime, string, doneNetting)
 	{
 		stream.stop();
 		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the database for the tweets.')
+		console.log('Please check the parsedTweets folder for the tweets.')
 		doneNetting(i);
 	}
 }
@@ -95,7 +95,7 @@ function location(stopTime, coordinates, doneNetting)
 	{
 		stream.stop();
 		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the database for the tweets.')
+		console.log('Please check the parsedTweets folder for the tweets.')
 		doneNetting(i);
 	}
 }
