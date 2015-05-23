@@ -1,0 +1,7 @@
+User Twitter handle : 123enoch
+User name : Enoch Jones
+Tweet : Good morning @GloGirlRosey. #HappySaturday 😀🙋
+Time zone : null
+Language : en
+User follower count : 3552
+User status count : 20204

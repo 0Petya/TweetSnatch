@@ -36,7 +36,7 @@ function sample(stopTime, doneNetting)
 	var stream = T.stream('statuses/sample');
 
 	var i = 0;
-	stream.on('tweet', gotTweet)
+	stream.on('tweet', gotTweet);
 	setTimeout(timesUp, stopTime);
 
 	function gotTweet(tweet)
@@ -59,7 +59,11 @@ function track(stopTime, string, doneNetting)
 	var stream = T.stream('statuses/filter', { track: [string]});
 
 	var i = 0;
-	stream.on('tweet', gotTweet)
+	var missed = 0;
+
+	stream.on('tweet', gotTweet);
+	stream.on('limit', function(message)
+	{ if (message.limit.track > missed) missed = message.limit.track; });
 	setTimeout(timesUp, stopTime);
 
 	function gotTweet(tweet)
@@ -71,7 +75,7 @@ function track(stopTime, string, doneNetting)
 	function timesUp()
 	{
 		stream.stop();
-		console.log('\nCaught ' + i + ' tweets!');
+		console.log('\nCaught ' + i + ' tweets! Missed ' + missed + ' tweets.');
 		console.log('Please check the parsedTweets folder for the tweets.')
 		doneNetting(i);
 	}
@@ -82,7 +86,11 @@ function location(stopTime, coordinates, doneNetting)
 	var stream = T.stream('statuses/filter', { locations: [coordinates]});
 
 	var i = 0;
-	stream.on('tweet', gotTweet)
+	var missed = 0;
+
+	stream.on('tweet', gotTweet);
+	stream.on('limit', function(message)
+	{ if (message.limit.track > missed) missed = message.limit.track; });
 	setTimeout(timesUp, stopTime);
 
 	function gotTweet(tweet)
@@ -94,7 +102,7 @@ function location(stopTime, coordinates, doneNetting)
 	function timesUp()
 	{
 		stream.stop();
-		console.log('\nCaught ' + i + ' tweets!');
+		console.log('\nCaught ' + i + ' tweets! Missed ' + missed + ' tweets.');
 		console.log('Please check the parsedTweets folder for the tweets.')
 		doneNetting(i);
 	}
