@@ -31,56 +31,6 @@ function cleanDir(path)
 	}
 }
 
-function sample(stopTime, doneNetting)
-{
-	var stream = T.stream('statuses/sample');
-
-	var i = 0;
-	stream.on('tweet', gotTweet);
-	setTimeout(timesUp, stopTime);
-
-	function gotTweet(tweet)
-	{
-		fs.writeFileSync('./unparsedTweets/tweet' + i + '.txt', JSON.stringify(tweet))
-		i++;
-	}
-
-	function timesUp()
-	{
-		stream.stop();
-		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the parsedTweets folder for the tweets.')
-		doneNetting(i);
-	}
-}
-
-function track(stopTime, string, doneNetting)
-{
-	var stream = T.stream('statuses/filter', { track: [string]});
-
-	var i = 0;
-	var missed = 0;
-
-	stream.on('tweet', gotTweet);
-	stream.on('limit', function(message)
-	{ if (message.limit.track > missed) missed = message.limit.track; });
-	setTimeout(timesUp, stopTime);
-
-	function gotTweet(tweet)
-	{
-		fs.writeFileSync('./unparsedTweets/tweet' + i + '.txt', JSON.stringify(tweet))
-		i++;
-	}
-
-	function timesUp()
-	{
-		stream.stop();
-		console.log('\nCaught ' + i + ' tweets! Missed ' + missed + ' tweets.');
-		console.log('Please check the parsedTweets folder for the tweets.')
-		doneNetting(i);
-	}
-}
-
 function location(stopTime, coordinates, doneNetting)
 {
 	var stream = T.stream('statuses/filter', { locations: [coordinates]});
@@ -108,6 +58,4 @@ function location(stopTime, coordinates, doneNetting)
 	}
 }
 
-exports.sample = sample;
-exports.track = track;
 exports.location = location;

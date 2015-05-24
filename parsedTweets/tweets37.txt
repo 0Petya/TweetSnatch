@@ -1,9 +1,7 @@
-User Twitter handle : tukanova
-User name : Таис
-Tweet : Делала жилет 6 часов 
-@ 
-Решила переделать полностью
-Time zone : Almaty
-Language : en
-User follower count : 457
-User status count : 44312
+User Twitter handle : ElaineRamos02
+User name : ramos
+Tweet : aaf, credo
+Time zone : null
+Language : pt
+User follower count : 678
+User status count : 1762

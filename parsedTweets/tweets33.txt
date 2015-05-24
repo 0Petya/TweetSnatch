@@ -1,7 +1,7 @@
-User Twitter handle : InezPardo
-User name : Inez
-Tweet : I need some all day plans pls with someone fun😍
-Time zone : null
-Language : en
-User follower count : 481
-User status count : 8334
+User Twitter handle : 10muti
+User name : Mustafa B. Engin
+Tweet : Bu saatten sonra bilic kalsin diyen zihniyet ne kullaniyorsan ondan getir bana!
+Time zone : Istanbul
+Language : tr
+User follower count : 673
+User status count : 10451

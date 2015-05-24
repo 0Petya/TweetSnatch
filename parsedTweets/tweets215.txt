@@ -1,7 +1,7 @@
-User Twitter handle : gabrielrdg_
-User name : COBRA 
-Tweet : Vai ter q me dar
-Time zone : Brasilia
-Language : pt
-User follower count : 761
-User status count : 63339
+User Twitter handle : beboestebanez
+User name : Bebo Estebanez
+Tweet : Tagliafico y albertego los mejores hasta el momento
+Time zone : null
+Language : es
+User follower count : 478
+User status count : 2367

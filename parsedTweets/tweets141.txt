@@ -1,8 +1,7 @@
-User Twitter handle : bullshit_idc
-User name : tretas
-Tweet : Quero que vcs vão passear. 
-Mas levem-me.
-Time zone : London
-Language : pt
-User follower count : 118
-User status count : 13713
+User Twitter handle : luligoldie
+User name : lula
+Tweet : El cayó muy bajo⤵
+Time zone : Santiago
+Language : es
+User follower count : 1148
+User status count : 26955

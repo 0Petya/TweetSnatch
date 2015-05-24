@@ -1,7 +1,7 @@
-User Twitter handle : garel_23
-User name : استيبان
-Tweet : RFT https://t.co/wrLisfdS0W
-Time zone : null
-Language : es
-User follower count : 2020
-User status count : 38605
+User Twitter handle : solonapoli24
+User name : Vincenzo Scherillo
+Tweet : @SkySport http://t.co/brGF7Horac
+Time zone : Rome
+Language : it
+User follower count : 21
+User status count : 982

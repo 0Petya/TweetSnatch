@@ -1,7 +1,7 @@
-User Twitter handle : turistoldumben
-User name : Barış
-Tweet : I'm at Forum Bornova in İzmir, Türkiye https://t.co/RU11puHFPM http://t.co/KEfXg4lKOP
-Time zone : Istanbul
-Language : tr
-User follower count : 306
-User status count : 9114
+User Twitter handle : lauvaress
+User name : lau varess
+Tweet : Al final @ahorapodemos es un fiasco..
+Time zone : null
+Language : es
+User follower count : 915
+User status count : 30143

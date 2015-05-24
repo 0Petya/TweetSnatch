@@ -1,11 +1,7 @@
-User Twitter handle : crizel199X
-User name : read bio
-Tweet : ***11:11***
-follow me
-@AvrilLavigne 
-
-//READ BIO THEN RT TYSM 2
-Time zone : null
+User Twitter handle : trevorkevorson
+User name : Rob Beard
+Tweet : Ugtar spelt backwards is Ratgu
+Time zone : London
 Language : en
-User follower count : 3152
-User status count : 21888
+User follower count : 241
+User status count : 5786

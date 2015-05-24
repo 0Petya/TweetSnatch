@@ -1,8 +1,7 @@
-User Twitter handle : rustam004
-User name : rustam asadov
-Tweet : Бля мне ж через год ЕГЭ сдавать...
-Твою ж!
+User Twitter handle : rebecca_87
+User name : Rebecca Brayson
+Tweet : Baby enjoyed her Indians and ice water. She's happily kicking away in there. She better let me sleep tonight though!
 Time zone : null
-Language : ru
-User follower count : 78
-User status count : 1104
+Language : en
+User follower count : 102
+User status count : 3264

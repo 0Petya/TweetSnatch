@@ -1,7 +1,7 @@
-User Twitter handle : tpuengs
-User name : ฉันคือผญที่โง่ที่สุด
-Tweet : ปล่อยวาง
-Time zone : null
-Language : en
-User follower count : 132
-User status count : 8326
+User Twitter handle : BerkeeCN3
+User name : Berke Can Övet
+Tweet : Şike Şikeee (@ Türk Telekom Arena in İstanbul, Türkiye) https://t.co/zlzG133rgE
+Time zone : Baghdad
+Language : tr
+User follower count : 256
+User status count : 2968

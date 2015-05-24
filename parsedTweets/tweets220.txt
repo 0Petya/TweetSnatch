@@ -1,7 +1,7 @@
-User Twitter handle : jubenggg
-User name : ㅤ
-Tweet : 11:11 🙏
-Time zone : null
-Language : en
-User follower count : 1349
-User status count : 57536
+User Twitter handle : SidalBayraktar1
+User name : SİDAL
+Tweet : Ne kadar yazabilirsin mısralara kaderin sana yazmadığını ?
+Time zone : Athens
+Language : tr
+User follower count : 868
+User status count : 4099

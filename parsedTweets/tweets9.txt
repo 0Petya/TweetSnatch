@@ -1,7 +1,7 @@
-User Twitter handle : Quizasaldahir
-User name : alduunigg
-Tweet : Mami hace diminutivos cada vez que me quiere pedir un favor.
-Time zone : Caracas
-Language : es
-User follower count : 893
-User status count : 63300
+User Twitter handle : zinsama_d
+User name : Chibikko Jin Jin
+Tweet : 言葉の使い方誰か教えて。
+Time zone : null
+Language : ja
+User follower count : 307
+User status count : 411

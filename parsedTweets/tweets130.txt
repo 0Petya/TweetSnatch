@@ -1,7 +1,7 @@
-User Twitter handle : jelenalz
-User name : john
-Tweet : uma ligação perdida
-Time zone : Bogota
-Language : pt
-User follower count : 16012
-User status count : 75514
+User Twitter handle : teemoney_ynot
+User name : tee_money
+Tweet : Big chillied in this Sunday
+Time zone : null
+Language : en
+User follower count : 50
+User status count : 69

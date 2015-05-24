@@ -1,7 +1,7 @@
-User Twitter handle : euanmcwee
-User name : Euan
-Tweet : Hey fever ruins my life.
-Time zone : null
-Language : en
-User follower count : 321
-User status count : 11359
+User Twitter handle : HSYlcn
+User name : Halil YALÇIN
+Tweet : Adada çılgınlar gibi eğlenilen mekan çadır... 😔 (@ Çadır in Balıkesir, Türkiye) https://t.co/3Oyqkhoq0Z
+Time zone : Istanbul
+Language : tr
+User follower count : 104
+User status count : 766

@@ -1,7 +1,7 @@
-User Twitter handle : 123enoch
-User name : Enoch Jones
-Tweet : Good morning @GloGirlRosey. #HappySaturday 😀🙋
+User Twitter handle : y_hasgul
+User name : Hasgül Yılmaz
+Tweet : Her arayan kötüyüm diyo hiç nasılsın diyen yok
 Time zone : null
-Language : en
-User follower count : 3552
-User status count : 20204
+Language : tr
+User follower count : 297
+User status count : 360

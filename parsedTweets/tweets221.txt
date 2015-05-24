@@ -1,7 +1,7 @@
-User Twitter handle : rarara090201
-User name : あおい
-Tweet : ぽでぃてぃぶぽでぃてぃぶ
-Time zone : null
-Language : ja
-User follower count : 180
-User status count : 252
+User Twitter handle : cafadam
+User name : DEEP WEB UMURHAN 
+Tweet : FUTBOL SEVEN ADAM MALDIR
+Time zone : Istanbul
+Language : tr
+User follower count : 8487
+User status count : 77598

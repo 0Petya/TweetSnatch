@@ -1,7 +1,7 @@
-User Twitter handle : NaxxH13
-User name : نسيم
-Tweet : Pourtant c'est plus nocif
-Time zone : Athens
-Language : fr
-User follower count : 602
-User status count : 13277
+User Twitter handle : manueljr_1208
+User name : Manuel Abascal Jr
+Tweet : At the hipster capital of Texas. #getaslice
+Time zone : null
+Language : en
+User follower count : 91
+User status count : 290
