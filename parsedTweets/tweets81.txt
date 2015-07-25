@@ -1,7 +1,0 @@
-User Twitter handle : tuncaygncy
-User name : Tuncay Gencay
-Tweet : Ayrılıyosun biraz zaman geçiyor bi bakıyorsun en yakin arkadasinla el ele şok pert felc olabiliyosun
-Time zone : null
-Language : tr
-User follower count : 180
-User status count : 679

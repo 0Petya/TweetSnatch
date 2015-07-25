@@ -1,7 +1,0 @@
-User Twitter handle : ertugrulbyrm1
-User name : Ertuğrul Bayram
-Tweet : Hamza Hamzaoğlunu hoca olarak görmeyen bi ben degilmisim emre ve buraka tesekkurler
-Time zone : null
-Language : tr
-User follower count : 43
-User status count : 615

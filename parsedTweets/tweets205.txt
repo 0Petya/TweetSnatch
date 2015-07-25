@@ -1,7 +1,0 @@
-User Twitter handle : silasuyoney
-User name : SSY
-Tweet : #BeyazFutbolArenada
-Time zone : null
-Language : tr
-User follower count : 179
-User status count : 5304

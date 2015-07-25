@@ -1,7 +1,0 @@
-User Twitter handle : MarkitosGarcia5
-User name : Marcos David
-Tweet : Que octa culiau
-Time zone : null
-Language : es
-User follower count : 381
-User status count : 13003

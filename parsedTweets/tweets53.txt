@@ -1,7 +1,0 @@
-User Twitter handle : MeneguelJoao
-User name : Joao Vitor Meneguel
-Tweet : Veeei que sono tiu
-Time zone : null
-Language : pt
-User follower count : 190
-User status count : 765

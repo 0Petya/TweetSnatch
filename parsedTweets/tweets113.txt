@@ -1,7 +1,0 @@
-User Twitter handle : massimonascioli
-User name : Massimo Nascioli 
-Tweet : @CorsaleTeresa immagino che pranzettino...
-Time zone : null
-Language : it
-User follower count : 2120
-User status count : 38755

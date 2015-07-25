@@ -1,7 +1,0 @@
-User Twitter handle : agus_rosales_16
-User name : Agus
-Tweet : ahre
-Time zone : Santiago
-Language : es
-User follower count : 288
-User status count : 16551

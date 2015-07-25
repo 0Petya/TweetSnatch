@@ -3,7 +3,7 @@ TweetSnatch
 
 TweetSnatch is an ongoing project, that is used for capturing and storing tweets in real time.
 
-To use, you have to run the main .js file with Node.js:
+To use, you start by inputting the necessary API keys in the config.ini file. Afterwards you run the main .js file with Node.js:
 
 ''''
 $ node tweetSnatch.js
@@ -23,7 +23,7 @@ Please check the parsedTweets folder for the tweets.
 
 Afterwards, the tweets will be parsed and stored inside the parsedTweets folder.
 
-Currently, this uses sqlite as a database to store the tweets. In the future, I plan on integrating this with Google Maps so that users my visually specify the bounding box, as well as being able to perform queries on the database.
+Currently, this uses sqlite as a database to store the tweets, but it just spits it out in text format. In the future, I plan on integrating this with Google Maps so that users may visually specify the bounding box, as well as being able to perform queries on the database.
 
 
 

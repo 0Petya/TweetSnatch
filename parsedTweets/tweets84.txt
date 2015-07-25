@@ -1,7 +1,0 @@
-User Twitter handle : y_hasgul
-User name : Hasgül Yılmaz
-Tweet : Her arayan kötüyüm diyo hiç nasılsın diyen yok
-Time zone : null
-Language : tr
-User follower count : 297
-User status count : 360

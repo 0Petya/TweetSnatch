@@ -1,7 +1,0 @@
-User Twitter handle : SOSJamess
-User name : James
-Tweet : @bateson87 are you going to watch Orlando City today?
-Time zone : null
-Language : en
-User follower count : 76
-User status count : 5903

@@ -1,7 +1,0 @@
-User Twitter handle : beysyilmazz
-User name : Beyza Yılmaz
-Tweet : bir parça bile.
-Time zone : Athens
-Language : tr
-User follower count : 309
-User status count : 5642

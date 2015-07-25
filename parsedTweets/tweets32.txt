@@ -1,7 +1,0 @@
-User Twitter handle : Koarex
-User name : KOAREX
-Tweet : @DaniRep siii vloooog
-Time zone : null
-Language : es
-User follower count : 1006
-User status count : 516
